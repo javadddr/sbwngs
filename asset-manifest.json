@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sbwngs/static/css/main.02704946.css",
+    "main.js": "/sbwngs/static/js/main.70159dd0.js",
+    "index.html": "/sbwngs/index.html",
+    "main.02704946.css.map": "/sbwngs/static/css/main.02704946.css.map",
+    "main.70159dd0.js.map": "/sbwngs/static/js/main.70159dd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02704946.css",
+    "static/js/main.70159dd0.js"
+  ]
+}
